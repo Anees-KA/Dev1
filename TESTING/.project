@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TESTING</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.unisys.tde.core.OS2200Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.unisys.tde.core.OS2200</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>ABC1</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/ABC1</location>
+		</link>
+		<link>
+			<name>ABC2</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/ABC2</location>
+		</link>
+		<link>
+			<name>ALI</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/ALI</location>
+		</link>
+		<link>
+			<name>ATESTELT21</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/ATESTELT21</location>
+		</link>
+		<link>
+			<name>MIGCRENEWELT</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/MIGCRENEWELT</location>
+		</link>
+		<link>
+			<name>MIGELE</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/MIGELE</location>
+		</link>
+		<link>
+			<name>OSELTCOBOL.COB</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/OSELTCOBOL.COB</location>
+		</link>
+		<link>
+			<name>TESTC.COB</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTC.COB</location>
+		</link>
+		<link>
+			<name>TESTELEMENT</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTELEMENT</location>
+		</link>
+		<link>
+			<name>TESTELT</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTELT</location>
+		</link>
+		<link>
+			<name>TESTELT03</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTELT03</location>
+		</link>
+		<link>
+			<name>TESTKL</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTKL</location>
+		</link>
+		<link>
+			<name>TESTPROMIGEL</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTPROMIGEL</location>
+		</link>
+		<link>
+			<name>WECOB.COB</name>
+			<type>1</type>
+			<location>C:/APersonal Data/E2021-BuildTesting0421/Data-Cache/129.221.28.204/os2200/ANEES/ABC/WECOB.COB</location>
+		</link>
+	</linkedResources>
+</projectDescription>

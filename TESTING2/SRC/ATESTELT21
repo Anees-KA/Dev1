@@ -1,0 +1,86 @@
+*ABORT, *DIVIDE, *ENDIF, *MESSAGE, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*ACCEPT, *DLOC, *EXIT, *MULTIPLY, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*ADD, *DO, *IF, *PCONTROL, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*BRKPT, *ENDDO, *ELSEIF, *PROCESS, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*CLEAR, *DUMP, *ELSE, *REMOVE, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*COPY, *EDIT, *ENDIF, *RESTORE, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*CORRECT, *EJECT, *INCREMENT, *RETURN, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*CREATE, *ELSE, *LOOP, *SAVE, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*CSF, *ELSEIF, *ITERATE, *SET, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*DEFINE, *ENDCORRECT, *LIST, *SORT, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*ENDDEFINE, *ENDDEFINE, *DISPLAY, *UNLIST, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			*MERGE, *WAI
+			
+			
+			DATIME$, INFO$, TIME$, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			MARGIN$, SYSTEM$, SUPS$, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			CSFSTA$, SOURCE$, DATE$ //$NON-NLS-1$ //$NON-
+			
+			@ADD, @END, @MODE, @RUN, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@ASG, @@END, @@MODE, @@SEND, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@ASG, @ENDF, @MOVE, @SETC, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@BRKPT, @ENDX, @MSG, @@SKIP, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@BRKPT, @EOF, @@MSG, @@SOLI, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@CAT, @ERS, @@NOPR, @START, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@CAT, @@ESC, @PACK, @@START, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@CHG, @FILE, @PASSWD, @SYM, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@CKPT, @FIN, @@PASSWD, @@SYM, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@CKPT, @FIND, @PCH, @@TERM, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@CLOSE, @FREE, @PERFEV, @TEST, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@CM, @@FREE, @@PMOD, @@TM, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@CONS, @@FUL, @PREP, @@TOUT, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@CONT, @HDG, @@PRNT, @@TRNS, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@COPIN, @@HDG, @PRT, @@TTY, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@COPOUT, @@HOLD, @QUAL, @USE, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@COPY, @@INQ, @@QUAL, @@USE, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@CQUE, @@INS, @REWIND, @@X, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@CYCLE, @JUMP, @@RLD, @XQT, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@@DCT, @LOG, @@RLU, @RSTRT, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@DELETE, @@LOG, @@RQUE, @ENABLE, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			@MARK, @SYMCN, @@SETC, @iru,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@cpftp, @cifsut, @acob, @ucob,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@uc, @masm, @pls, @link,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@map,	@pads, @freeall, @freem,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@ftn, @uftn, @upls, @col,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@ckpar, @rspar, @proc, @pmd,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@elt,	@data, @@poc, @@print,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@list, @label, @ed, @ipf,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@ssdp, @SSG, @fsed, @save,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@toced, @@x tio, @upas, @TTY,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@TAG, @SECMGR, @UTL, @SPELL, //$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			#msg, #asg, #cat, #copy,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#free, #add , #cycle, #setc,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#jump ,#run,#sym,#fin,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#ed, #eof, #use, #brkpt,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#qual, #xqt, #delete, #enable,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#move, #acob, #map, #ftn,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#prt, #masm, #pdp, #ERS,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#ELT, #HDG, #PCH, #START,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$ //$NON-NLS-4$
+			#FOR, #ASM, #cob,//$NON-NLS-1$ //$NON-NLS-2$ //$NON-NLS-3$
+			@add, @pkgreg, @prodld, @solar, @siman,  @fas, @desc//Added by @KAAnees New Keywords as per requirement - OE-1219
+			
+			
+			mul = a @ b;
+			@. 
+			*.
+			mul = a * b;
+mul = a    *    b ; 
+			mul = a * b;
+			
+*.
+mul = a  @    b ;
+
+
+
+ * mcnmnmnc knknnc 
+  @ADD
+  
+  * 
+  mul = a * b;
+  
+  
+  
+  
+  
+  
+    
